@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-9gu26z.shadowdiary.com/sitemap.xml
